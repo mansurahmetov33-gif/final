@@ -1,0 +1,78 @@
+{
+    "stairs_smoke": {
+        "path": "media/mirage/t_side/smokes/a/stairs_smoke.mp4",
+        "title": "Stairs Smoke",
+        "description": "Middle click jumpthrow"
+    },
+
+    "down_stairs_smoke": {
+        "path": "media/mirage/t_side/smokes/a/down_stairs_smoke.mp4",
+        "title": "Down Stairs Smoke",
+        "description": "Left click regular throw"
+    },
+
+    "ct_smoke": {
+        "path": "media/mirage/t_side/smokes/a/ct_smoke.mp4",
+        "title": "CT Smoke",
+        "description": "Left click jumpthrow"
+    },
+
+    "connector_smoke": {
+        "path": "media/mirage/t_side/smokes/mid/connector_smoke.mp4",
+        "title": "Connector Smoke",
+        "description": "Left click jumpthrow"
+    },
+
+    "window_smoke": {
+        "path": "media/mirage/t_side/smokes/mid/window_smoke.mp4",
+        "title": "Window Smoke",
+        "description": "Left click +A jumpthrow"
+    },
+
+    "start_smoke": {
+        "path": "media/mirage/t_side/smokes/mid/start_smoke.mp4",
+        "title": "Start Smoke",
+        "description": "Left click regular throw"
+    },
+
+    "short_smoke": {
+        "path": "media/mirage/t_side/smokes/b/short_smoke.mp4",
+        "title": "Short Smoke",
+        "description": "Left click regular throw"
+    },
+
+    "kitchen_smoke": {
+        "path": "media/mirage/t_side/smokes/b/kitchen_smoke.mp4",
+        "title": "Kitchen Smoke",
+        "description": "Left click jumpthrow"
+    },
+
+    "main_kitchen_smoke": {
+        "path": "media/mirage/t_side/smokes/b/main_kitchen_smoke.mp4",
+        "title": "Main Kitchen Smoke",
+        "description": "Left click +W jumpthrow"
+    },
+
+    "mirage_ct_queue_a": {
+    "path": "media/mirage/defaults/ct_a.mp4",
+    "title": "Mirage CT A Default",
+    "description": "Purchase: 1 incendiary, 1 smoke, 2 flash\n\nThe role of an incendiary grenade: to stop early push from the pit\n\nThe role of the smoke grenade is to create a space for safe entry into the middle/control of the middle\n\nThe role of the first flash drive is to blind the players at an early time, who run to the middle at an early time.\nThe role of the second flash drive: behind the smoke, the flash drive also blinds, it is not visible, a kind of airbag"
+    },
+
+    "mirage_ct_queue_b": {
+     "path": "media/mirage/defaults/ct_b.mp4",
+     "title": "Mirage CT B Default",
+    "description": "Purchase: 1 incendiary, 1 smoke, 1 HE\n\nThe role of an incendiary grenade: to stop a possible push from the T side\n\nThe role of HE: if you have information about B apartments, you can throw it deeply (or assume their presence there)\n\nThe role of smoke: if you see, that T side is extinguished your molly (B push), you MUST throw smoke out your legs and play for him (if they are will push into smoke, you will see them first -> advantage, in other way it gives you time to be alive, and open space) "
+    },
+    "mirage_t_queue_a": {
+    "path": "media/mirage/defaults/t_a.mp4",
+  "title": "Mirage T A Default",
+    "description": "Purchase: 1 smoke, 1 incendiary, 2 flashes\n\n The role of smoke and incendiary is to zone stairs\n\nFlashes are momental and non visible to CT"
+},
+
+"mirage_t_queue_b": {
+  "path": "media/mirage/defaults/t_b.mp4",
+  "title": "Mirage T B Default",
+  "description": "..."
+}
+}

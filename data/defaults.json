@@ -1,0 +1,25 @@
+{
+  "mirage_ct_queue_a": {
+    "path": "media/mirage/defaults/ct_a.mp4",
+    "title": "Mirage CT A Default",
+    "description": "Purchase: 1 incendiary, 1 smoke, 2 flash\nThe role of an incendiary grenade: to stop early push from the pit\nThe role of the smoke grenade is to create a space for safe entry into the middle/control of the middle\nThe role of the first flash drive is to blind the players at an early time, who run to the middle at an early time.\nThe role of the second flash drive: behind the smoke, the flash drive also blinds, it is not visible, a kind of airbag"
+  },
+
+  "mirage_ct_queue_b": {
+    "path": "media/mirage/defaults/ct_b.mp4",
+    "title": "Mirage CT B Default",
+    "description": "Purchase: 1 incendiary, 1 smoke, 1 HE\nThe role of an incendiary grenade: to stop a possible push from the T side\nThe role of HE: if you have information about B apartments, you can throw it deeply (or assume their presence there)\n The role of smoke: if you see, that T side is extinguished your molly (B push), you MUST throw smoke out your legs and play for him (if they are will push into smoke, you will see them first -> advantage, in other way it gives you time to be alive, and open space) "
+  },
+
+  "mirage_t_queue_a": {
+    "path": "media/mirage/defaults/t_a.mp4",
+    "title": "Mirage T A Default (support)",
+    "description": "Purchase: 1 smoke, 1 incendiary, 2 flashes\n The role of smoke and incendiary is to zone stairs\nFlashes are momental and non visible to CT"
+  },
+
+  "mirage_t_queue_b": {
+    "path": "media/mirage/defaults/t_b.mp4",
+    "title": "Mirage T B Default (eco push)",
+    "description": "Purchase"
+  }
+}
