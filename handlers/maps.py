@@ -20,7 +20,7 @@ async def map_selected(callback: CallbackQuery):
 
     else:
 
-        await callback.message.edit_text(
+        await callback.message.answer(
             f"sorry {map_name} not done yet"
         )
 
