@@ -34,31 +34,13 @@ git clone https://github.com/mansurahmetov33-gif/final.git
 cd final
 ```
 
-2. Create and activate a virtual environment:
-
-```bash
-python -m venv .venv
-```
-
-Windows:
-
-```bash
-.venv\Scripts\activate
-```
-
-macOS/Linux:
-
-```bash
-source .venv/bin/activate
-```
-
-3. Install dependencies:
+2. Install dependencies:
 
 ```bash
 pip install aiogram
 ```
 
-4. Add your Telegram bot token in `config.py`:
+3. Add your Telegram bot token in `config.py`:
 
 ```python
 TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
